@@ -24,7 +24,7 @@ export default function Home() {
       </div>
       <footer className="text-dracula flex w-full flex-row flex-wrap items-center justify-center gap-y-6 gap-x-12 mt-auto py-6 text-center">
         <div className="group relative ">
-          <Link href={"https://github.com/RicardoMineli/IPTyper"}>
+          <Link href={"https://github.com/RicardoMineli/ip-typer"}>
             <svg
               strokeLinejoin="round"
               strokeLinecap="round"
